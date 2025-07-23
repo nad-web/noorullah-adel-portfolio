@@ -1,6 +1,8 @@
 # Noorullah Adel – Portfolio 🚀
 
 ## Welcome to my professional portfolio repository! 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
+
 This space is dedicated to showcasing my technical skills, qualifications, and hands-on projects across various domains including:
 
 - 🖥️ System Administration
@@ -11,7 +13,6 @@ This space is dedicated to showcasing my technical skills, qualifications, and h
 This repository is designed for recruiters, collaborators, and peers to explore my capabilities through real-world examples, scripts, dashboards, and documentation.
 
 ---
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
 
 ## 📂 Repository Structure
 
