@@ -1,0 +1,24 @@
+# Beispiel : SQL CREATE TABLE Befehle
+
+-- Tabelle Artikel
+CREATE TABLE Artikel (
+    ArtNr INTEGER PRIMARY KEY,
+    Preis NUMERIC(10,2) NOT NULL,
+    ArtBez CHAR(40)
+);
+
+-- Tabelle Bestellung
+CREATE TABLE Bestellung (
+    AuftrNr INTEGER,
+    Kunde CHAR(70) NOT NULL,
+    Datum DATE NOT NULL,
+    PostenNr INTEGER,
+    ArtNr INTEGER,
+    Stueckzahl INTEGER NOT NULL,
+    PRIMARY KEY (AuftrNr, PostenNr),
+    FOREIGN KEY (ArtNr) REFERENCES Artikel(ArtNr) 
+        ON DELETE SET NULL 
+        ON UPDATE CASCADE,
+    UNIQUE (AuftrNr, ArtNr)
+);
+
