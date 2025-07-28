@@ -1,0 +1,6 @@
+
+Open Terminal 
+  dir
+  cd choose file 
+  befehl list file
+File Formmat will be shown 
