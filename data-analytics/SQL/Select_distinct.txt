@@ -1,0 +1,6 @@
+#Beispiel:
+Auftragsnummern und Anzahl unterschiedlicher Posten
+
+SELECT AuftrNr, COUNT(DISTINCT PersNr) AS AnzahlPosten
+FROM Auftrag
+GROUP BY AuftrNr;
