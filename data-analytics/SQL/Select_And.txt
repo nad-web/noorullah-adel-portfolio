@@ -1,0 +1,48 @@
+
+#Beispiele
+****************************************
+Bezeichnungen mit kleinem a und kleinem oder großem r. Tabelle (Teilestamm)
+
+SELECT bezeichnung
+FROM Teilestamm
+WHERE bezeichnung LIKE '%a%'
+  AND (bezeichnung LIKE '%r%' OR bezeichnung LIKE '%R%');
+
+
+
+## Beispiel: Personen mit mindestens dem Durchschnittsgehalt. Tabelle: (Personal)
+
+SELECT name, gehalt
+FROM Personal
+WHERE gehalt >= (
+  SELECT AVG(gehalt)
+  FROM Personal
+);
+
+
+## Beispiel:: Teile aus Teilestamm, die nicht im Lager vorhanden sind
+
+SELECT TeilNr, Bezeichnung
+FROM Teilestamm
+WHERE TeilNr NOT IN (
+  SELECT TeileNr
+  FROM Lager
+);
+
+
+## Beispiel:: Anzahl verschiedener Teile mit Auftrag aus Auftragsposten
+
+SELECT COUNT(DISTINCT teileNr) AS anzahl_teile_mit_auftrag
+FROM Auftragsposten;
+
+
+## Beispiel: Sortierte Namen aus Kunde und Lieferant
+
+SELECT name
+FROM Kunde
+UNION
+SELECT name
+FROM Lieferant
+ORDER BY name;
+
+****************************************
