@@ -1,0 +1,75 @@
+#Beispiele
+
+## Beispiel 
+INSERT INTO Artikel_HA (ArtNr, ArtBez, Preis)
+VALUES (1, 'Erdbeertorte', 13.95), 
+       (2, 'Kaese_Sahne_Torte', 11.95),
+       (3, 'Donauwelle', 9.00),
+       (4, 'Marmorkuchen', 7.35),
+       (5, 'Amerikaner', 1.10)
+
+
+## Beispiel 
+ALTER TABLE Artikel_Ha
+ADD COLUMN stueck_pro_einheit INT;     
+
+UPDATE Artikel_Ha                           
+SET stueck_pro_einheit = 12
+WHERE ArtBez = 'Erdbeertorte';
+
+UPDATE Artikel_Ha                           
+SET stueck_pro_einheit = 12
+WHERE ArtBez = 'Kaese_Sahne_Torte';
+
+UPDATE Artikel_Ha                            
+SET stueck_pro_einheit = 10
+WHERE ArtBez = 'Donauwelle';
+
+UPDATE Artikel_Ha  
+SET stueck_pro_einheit = 8
+WHERE artbez = 'Marmorkuchen';
+
+UPDATE Artikel_Ha
+SET stueck_pro_einheit = 1
+WHERE artbez = 'Amerikaner';
+
+ALTER TABLE Artikel_Ha  
+ALTER COLUMN stueck_pro_einheit SET NOT NULL;
+
+
+INSERT INTO Bestellung_HA (AuftrNr, PostenNr, Kunde, ArtNr, Datum, Stueckzahl, stueck_pro_einheit)
+VALUES 
+--Bestellung 1
+(1, 1, 'Fritz Mueller',(SELECT ArtNr FROM Artikel_HA WHERE ArtBez = 'Erdbeertorte'), ('13.06.2025'), 1, 12), 
+
+(1, 2, 'Fritz Mueller',(SELECT ArtNr FROM Artikel_HA WHERE ArtBez = 'Marmorkuchen'), ('13.06.2025'), 2, 8), 
+
+(1, 3, 'Fritz Mueller',(SELECT ArtNr FROM Artikel_HA WHERE ArtBez = 'Amerikaner'), ('13.06.2025'), 4, 1), 
+
+--Bestellung 2
+(2, 1, 'Paula Gruber',(SELECT ArtNr FROM Artikel_HA WHERE ArtBez = 'Erdbeertorte'), ('15.06.2025'), 2, 12),
+
+(2, 2, 'Paula Gruber',(SELECT ArtNr FROM Artikel_HA WHERE ArtBez = 'Kaese_Sahne_Torte'), ('15.06.2025'), 1, 12),
+
+--Bestellung 3
+(3, 1, 'Fritz Mueller',(SELECT ArtNr FROM Artikel_HA WHERE ArtBez = 'Donauwelle'), ('21.06.2025'), 11, 10),
+(3, 2, 'Fritz Mueller',(SELECT ArtNr FROM Artikel_HA WHERE ArtBez = 'Marmorkuchen'), ('21.06.2025'), 2, 8)
+
+Aufgabe 2.3
+SELECT
+    B.AuftrNr,                       
+    B.Kunde,                        
+    B.Datum,                 
+    B.PostenNr,                        
+    A.ArtBez,                       
+    B.Stueckzahl,                   
+    A.Preis AS preis_gesamt_einheit,      
+    A.stueck_pro_einheit,                             
+    ROUND(B.stueckzahl * A.Preis / A.stueck_pro_einheit, 2)
+                  AS gesamtpreis_posten           
+FROM
+    Bestellung_HA   AS B
+JOIN
+    Artikel_HA      AS A  ON A.ArtNr = B.ArtNr
+
+
