@@ -1,5 +1,34 @@
-# Noorullah Adel – Portfolio 🚀
-## Welcome to my professional portfolio repository!  
+<div align="center">
+    <h1>Hi there, I'm Noorullah! 👋</h1>
+  <p>
+    A passionate <b>IT Professional</b> and <b>Data Enthusiast</b> combining operational efficiency with data-driven insights. 
+    I specialize in building robust systems, automating workflows, and transforming complex data into actionable intelligence.
+  </p>
+  <p>
+    Ready to tackle challenging problems and contribute to innovative solutions!
+  </p>
+</div>
+
+
+<h1> Noorullah Adel's professional skills portfolio </h1>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
+
+---
+
+## 🚀 About My Portfolio
+
+This repository serves as my professional showcase, demonstrating my technical skills, qualifications, and hands-on projects. Here, you'll find real-world examples, scripts, dashboards, and documentation across various domains:
+
+- 🖥️ **System Administration:** Linux basics, shell scripts, network tools, and automation.
+- 📊 **Data Analytics:** Python projects, SQL queries, data visualizations, and case studies.
+- 📈 **Excel & Automation:** Dashboards, formulas, VBA macros, and Excel-based solutions.
+- 🛠️ **Tools & Utilities:** Git workflows, PowerShell scripts, monitoring tools, and productivity utilities.
+
+My goal is to provide a comprehensive overview of my capabilities for <mark>recruiters</mark>, <mark>collaborators</mark>, and <mark>peers</mark>.
+
+## 🛠️ My Technical Skills
+
 ### Below is a list of skills and qualifications I have acquired over the years. 
 #### 🐍 Python & Libraries![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
@@ -17,21 +46,30 @@
 
 #### 📋 Project & Collaboration Tools ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=white)
 
-## Welcome to my professional portfolio repository! 
+---
+<!---
+## ✨ Featured Projects
 
+Here are some projects that best highlight my skills and problem-solving approach. Click on any project to explore its dedicated repository for more details, code, and demonstrations.
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
+### 📈 Project Title 1: Automated Data Dashboard
+*   **Description:** Developed an automated Python script to extract, transform, and load sales data from disparate sources into a centralized database, then visualized key metrics using Power BI. This reduced manual reporting time by 70% and improved decision-making accuracy.
+*   **Technologies:** Python (Pandas, NumPy), SQL, Power BI, Azure DevOps.
+*   **Live Demo/Report:** [Link to Power BI Report / Screenshot / GIF] (Optional)
+*   **Repository:** [Link to Project 1 Repo](https://github.com/noorullah-adel/project-1-repo)
 
-This space is dedicated to showcasing my technical skills, qualifications, and hands-on projects across various domains including:
+### 🖥️ Project Title 2: Linux Server Hardening Script
+*   **Description:** Created a comprehensive Bash script to automate the hardening of Linux servers, including firewall configuration, user management, and security updates. This project significantly enhanced server security posture and compliance.
+*   **Technologies:** Bash, Linux, FirewallD/UFW, Git.
+*   **Repository:** [Link to Project 2 Repo](https://github.com/noorullah-adel/project-2-repo)
 
-- 🖥️ System Administration
-- 📊 Data Analytics
-- 📈 Excel & Automation
-- 🛠️ Tools & Utilities
+### 📊 Project Title 3: Predictive Maintenance Model
+*   **Description:** Built a machine learning model using Scikit-learn to predict equipment failures based on sensor data. The model achieved 92% accuracy, enabling proactive maintenance and reducing downtime.
+*   **Technologies:** Python (Scikit-learn, Matplotlib, Seaborn), Jupyter Notebook, AWS S3.
+*   **Repository:** [Link to Project 3 Repo](https://github.com/noorullah-adel/project-3-repo)
 
-This repository is designed for recruiters, collaborators, and peers to explore my capabilities through real-world examples, scripts, dashboards, and documentation.
-
-
+---
+--->
 ---
 
 ## 📂 Repository Structure
@@ -42,13 +80,6 @@ This repository is designed for recruiters, collaborators, and peers to explore 
 - `tools-and-utilities/`: Git workflows, PowerShell scripts, monitoring tools, and productivity utilities.
 - `certifications-and-courses/`: Certificates, course notes, and learning paths.
 
----
-
-## 🧠 About Me
-
-I’m passionate about combining operational efficiency with data-driven insights. This portfolio reflects my journey and growth in IT and analytics, with a focus on practical, real-world applications.
-
----
 
 ## 📬 Contact
 
@@ -59,7 +90,24 @@ Feel free to connect or reach out:
 - 🌐 GitHub: [github.com/noorullah-adel]
 
 ---
+---
+
+## 🏆 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nad-web&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nad-web&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+
 
 ## 📄 License
 
-This project is licensed under the [MIT License
+This project is licensed under the [MIT License]
+
+<div align="center">
+  <p>Made with ❤️ by Noorullah </p>
+</div>
