@@ -114,6 +114,9 @@ Feel free to connect or reach out:
 
 This project is licensed under the [MIT License]
 
+Copyright (c) 2025 Noorullah Adel
+> ⚠️ **Note:** This is a read-only professional portfolio. You are welcome to view and explore the contents, but direct edits are not permitted. If you'd like to collaborate or provide feedback, feel free to contact me via mentioned contact details.
+
 <div align="center">
   <p>Made with ❤️ by Noorullah </p>
 </div>
