@@ -16,3 +16,44 @@ Below is a list of my certifications and completed courses with details and link
 | System Administration and IT Infrastructure Services           | Coursera   | May 2022        | [Certificate](https://www.coursera.org/account/accomplishments/verify/DNS83ULA5CMM)    |
 
 *More certificates and course completions will be added here as I progress.*
+
+
+<!-- Business Intelligence -->
+[![BI](https://img.shields.io/badge/Business%20Intelligence-%230073b1?logo=googleanalytics&logoColor=white)](https://www.ibm.com/topics/business-intelligence)
+[![SQL](https://img.shields.io/badge/SQL-%234479A1?logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627?logo=tableau&logoColor=white)](https://help.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811?logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/power-bi/)
+[![Looker](https://img.shields.io/badge/Looker-%234285F4?logo=looker&logoColor=white)](https://cloud.google.com/looker/docs)
+
+<!-- Asana Workflow Specialist -->
+[![Asana](https://img.shields.io/badge/Asana-%23FF5D6E?logo=asana&logoColor=white)](https://asana.com/guide/help/fundamentals/workflow-builder)
+
+<!-- IT Project Manager -->
+[![Project Management](https://img.shields.io/badge/Project%20Management-%232C3E50?logo=jira&logoColor=white)](https://www.pmi.org/about/learn-about-pmi/what-is-project-management)
+[![Agile](https://img.shields.io/badge/Agile-%23239120?logo=scrumalliance&logoColor=white)](https://www.atlassian.com/agile)
+[![Scrum](https://img.shields.io/badge/Scrum-%23F88D29?logo=scrumalliance&logoColor=white)](https://www.scrum.org/resources/what-is-scrum)
+
+<!-- Cybersecurity -->
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23005A9C?logo=cisco&logoColor=white)](https://cloud.google.com/security)
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)](https://linuxjourney.com/)
+[![Networking](https://img.shields.io/badge/Networking-%23000000?logo=wifi&logoColor=white)](https://www.cloudflare.com/learning/network-layer/what-is-networking/)
+
+<!-- PowerShell -->
+[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![Windows](https://img.shields.io/badge/Windows-%230078D6?logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/)
+
+<!-- IT Support -->
+[![IT Support](https://img.shields.io/badge/IT%20Support-%234285F4?logo=google&logoColor=white)](https://grow.google/certificates/it-support/)
+[![Hardware](https://img.shields.io/badge/Hardware-%232F8D46?logo=nvidia&logoColor=white)](https://www.intel.com/content/www/us/en/support.html)
+[![Help Desk](https://img.shields.io/badge/Help%20Desk-%234D4D4D?logo=zendesk&logoColor=white)](https://www.zendesk.com/help-desk/)
+
+<!-- Network Associate -->
+[![Networking](https://img.shields.io/badge/Networking-Basics-%2300B2A9?logo=wikimedia-commons&logoColor=white)](https://learning.zyxel.com/)
+[![Zyxel](https://img.shields.io/badge/Zyxel-Certified-%23000000?logo=zyxel&logoColor=white)](https://learning.zyxel.com/)
+
+<!-- Psychological First Aid -->
+[![Psychological First Aid](https://img.shields.io/badge/Psychological%20First%20Aid-%234CAF50?logo=mdbook&logoColor=white)](https://www.coursera.org/learn/psychological-first-aid)
+
+<!-- System Administration -->
+[![System Admin](https://img.shields.io/badge/System%20Administration-%2322C55E?logo=linuxfoundation&logoColor=white)](https://www.coursera.org/learn/system-administration-it-infrastructure-services)
+[![Shell Scripting](https://img.shields.io/badge/Bash-Scripting-%234EAA25?logo=gnubash&logoColor=white)](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
