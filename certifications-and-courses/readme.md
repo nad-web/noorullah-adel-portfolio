@@ -15,7 +15,7 @@ Below is a list of my certifications and completed courses with details and link
 | Psychological First Aid           | Coursera   | Dec 2019        | [Certificate](https://www.coursera.org/account/accomplishments/verify/M3HG5UZT5L64)    |
 | System Administration and IT Infrastructure Services           | Coursera   | May 2022        | [Certificate](https://www.coursera.org/account/accomplishments/verify/DNS83ULA5CMM)    |
 
-*More certificates and course completions will be added here as I progress.*
+<h1>Acquired hands-on skills across the following domains</h1>
 
 
 <!-- Business Intelligence -->
@@ -57,3 +57,20 @@ Below is a list of my certifications and completed courses with details and link
 <!-- System Administration -->
 [![System Admin](https://img.shields.io/badge/System%20Administration-%2322C55E?logo=linuxfoundation&logoColor=white)](https://www.coursera.org/learn/system-administration-it-infrastructure-services)
 [![Shell Scripting](https://img.shields.io/badge/Bash-Scripting-%234EAA25?logo=gnubash&logoColor=white)](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
+
+# 🛠️ Applied Skills
+*Through hands-on coursework, real-world projects, and industry-recognized certifications, I have gained applied skills across the following domains and tools. These competencies reflect both my practical experience and continuous learning mindset:*
+
+**Data Analytics & BI:** Analyzing, visualizing, and interpreting data using tools like SQL, Power BI, Tableau, and Looker.
+
+**IT Project & Workflow Management:** Planning and coordinating projects using Agile, Scrum, and tools like Jira and Asana.
+
+**Cybersecurity & Networking:** Understanding of security principles, risk mitigation, and network fundamentals through Google Cybersecurity and Zyxel certification.
+
+**System Administration & Scripting:** Managing systems and automating tasks using Linux, PowerShell, and Bash scripting.
+
+**IT Support & Infrastructure:** Providing technical support, troubleshooting, and infrastructure management based on IT support certifications.
+
+**Soft Skills & Emergency Response:** Equipped with knowledge of psychological first aid and effective communication in high-pressure environments.
+
+*More certificates and course completions will be added here as I progress.*
