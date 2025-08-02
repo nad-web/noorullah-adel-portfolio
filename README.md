@@ -1,18 +1,25 @@
 <div align="center">
-    <h1>Hi there, I'm Noorullah! 👋</h1>
+  <h1>👋 Hi, I'm Noorullah Adel </h1>
+    <h2> Welcome to My Professional Skills Portfolio </h2>
   <p>
-    A passionate <b>IT Professional</b> and <b>Data Enthusiast</b> combining operational efficiency with data-driven insights. 
-    I specialize in building robust systems, automating workflows, and transforming complex data into actionable intelligence.
+    🎯 IT Professional | 🧠 Data Enthusiast | 🔧 Systems & Automation Specialist
   </p>
   <p>
-    Ready to tackle challenging problems and contribute to innovative solutions!
+    I thrive on solving real-world problems through automation, analytics, and streamlined systems.  
+    Passionate about bridging the gap between data and decision-making.
+  </p>
+  <p>
+    📈 Let's build smarter systems and data-driven solutions together!
   </p>
 </div>
 
+---
 
-<h1> Noorullah Adel's professional skills portfolio </h1>
+## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nad-web&theme=gruvbox&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -90,7 +97,6 @@ Feel free to connect or reach out:
 - 🌐 GitHub: [github.com/noorullah-adel]
 
 ---
----
 
 ## 🏆 GitHub Stats
 
@@ -111,3 +117,4 @@ This project is licensed under the [MIT License]
 <div align="center">
   <p>Made with ❤️ by Noorullah </p>
 </div>
+
