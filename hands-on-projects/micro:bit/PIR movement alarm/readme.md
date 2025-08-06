@@ -44,7 +44,16 @@ PIR (Passive Infrared) sensors are commonly used in burglar alarms and office li
 
 ## 💻 Step 2: Code It
 
-> Add your MakeCode or Python implementation here.
+> CodeBlocks
+
+Sensor / transmitter:
+
+<img width="822" height="482" alt="image" src="https://github.com/user-attachments/assets/5635e67c-397c-4036-90f5-50df915c3156" />
+
+
+Alarm / receiver:
+
+<img width="592" height="396" alt="image" src="https://github.com/user-attachments/assets/116a59b9-48fa-4307-907f-19c3801a2fca" />
 
 ---
 
