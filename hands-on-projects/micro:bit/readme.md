@@ -1,12 +1,10 @@
-
-
-# Getting Started with micro:bit
+# 📘 Getting Started with micro:bit
 
 Welcome to your journey with the **BBC micro:bit**! This guide will walk you through everything you need to know to start coding and interacting with your micro:bit device using either a computer or a smartphone.
 
 ---
 
-## 1. ?? Introduction to micro:bit
+## 1. 🔍 Introduction to micro:bit
 
 The **micro:bit** is a pocket-sized computer designed to make learning and teaching easy and fun. It features:
 
@@ -16,14 +14,14 @@ The **micro:bit** is a pocket-sized computer designed to make learning and teach
 - USB interface  
 - Input/output 
 
-?? **Start here:** micro:bit Getting Started Guide
+👉 **Start here:** micro:bit Getting Started Guide
 
 This official guide provides an overview of the device, its features, and what you need to begin.
 https://microbit.org/get-started/getting-started/get-coding/?device=computer
 
 ---
 
-## 2. ?? Coding with micro:bit
+## 2. 💻 Coding with micro:bit
 
 You can program your micro:bit in two main ways:
 
@@ -38,7 +36,7 @@ https://classroom.microbit.org/
 4. Click **Download** to save the `.hex` file.
 5. Connect your micro:bit via USB and drag the `.hex` file onto the device.
 
-? **Tip:** The micro:bit will flash its LEDs when the code is successfully transferred.
+✅ **Tip:** The micro:bit will flash its LEDs when the code is successfully transferred.
 
 ---
 
@@ -52,17 +50,17 @@ https://classroom.microbit.org/
 
 ---
 
-## 3. ?? Connecting micro:bit via Bluetooth
+## 3. 📶 Connecting micro:bit via Bluetooth
 
 To use your smartphone to send code wirelessly, you’ll need to pair your micro:bit via Bluetooth.
 
-### ?? Standard Bluetooth Pairing
+### 🔄 Standard Bluetooth Pairing
 
 1. Press the **reset button 3 times** quickly.
 2. The micro:bit enters Bluetooth pairing mode.
 3. Follow the pairing instructions in the app.
 
-### ?? Alternative Bluetooth Pairing (if standard mode fails)
+### 🔁 Alternative Bluetooth Pairing (if standard mode fails)
 
 1. **Press and hold** both **A and B buttons** on the micro:bit.
 2. While holding them, press the **reset button**.
@@ -73,20 +71,19 @@ Once paired, you can download and run your code wirelessly from the app.
 
 ---
 
-## ? Summary Checklist
+## ✅ Summary Checklist
 
 | Task              | Computer         | Smartphone       |
 |-------------------|------------------|------------------|
 | Code Editor       | MakeCode (Web)   | micro:bit App    |
 | Transfer Method   | USB              | Bluetooth        |
-| Pairing Required  | ?               | ?               |
-| App Needed        | ?               | ?               |
+| Pairing Required  | ❌               | ✅               |
+| App Needed        | ❌               | ✅               |
 
 ---
 
-## ?? Additional Resources
+## 📎 Additional Resources
 
 - [micro:bit Projects- micro:bit Support
 - micro:bit Python Editor
 https://support.microbit.org/support/home
-
