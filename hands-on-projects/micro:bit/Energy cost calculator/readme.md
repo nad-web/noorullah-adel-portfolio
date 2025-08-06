@@ -55,4 +55,20 @@ Flash the program onto a micro:bit and attach a battery pack. Place the micro:bi
 - The micro:bit uses its light sensor to detect when a light is on.
 - Energy used is calculated as:
 
-  ```
+---
+
+## Code Blocks 
+
+<img width="497" height="581" alt="image" src="https://github.com/user-attachments/assets/adad7f0c-fc18-4886-9514-a3e62ec8db51" />
+
+<img width="714" height="538" alt="image" src="https://github.com/user-attachments/assets/3576b332-d4e0-45b4-aa87-581118bf0a03" />
+
+<img width="578" height="699" alt="image" src="https://github.com/user-attachments/assets/4ae9912f-da0a-4953-886a-43e1c747fc7d" />
+
+<img width="269" height="745" alt="image" src="https://github.com/user-attachments/assets/52691664-07af-40cf-b191-568b84ae9b8f" />
+<img width="472" height="396" alt="image" src="https://github.com/user-attachments/assets/296cefc0-29a2-4a1a-aaad-60d800e31a96" />
+
+
+
+
+
