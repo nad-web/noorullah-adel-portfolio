@@ -1,6 +1,6 @@
 
 
-# ?? Getting Started with micro:bit
+# Getting Started with micro:bit
 
 Welcome to your journey with the **BBC micro:bit**! This guide will walk you through everything you need to know to start coding and interacting with your micro:bit device using either a computer or a smartphone.
 
