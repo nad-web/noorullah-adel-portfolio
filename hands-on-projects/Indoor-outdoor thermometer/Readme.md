@@ -1,3 +1,9 @@
+- # Indoor-outdoor Thermometer
+- ## Step 1: Make it
+- ## Step 2: Code it
+- ## Step 3: Improve it
+- # python Code
+
 # Indoor-outdoor Thermometer
 
 **Level**: Intermediate  
@@ -5,8 +11,6 @@
 **Components**: Buttons, LED display, Radio, Temperature sensor  
 **Concepts**: Communication, Input/output, Radio waves, Temperature, Variables
 
-[python][1]
----
 
 ## Step 1: Make it
 
@@ -49,4 +53,5 @@ This project uses two different programs, one for the outdoor micro:bit which se
 - Use variables to track the highest and lowest temperatures recorded.
 - Calibrate the readings against another thermometer to see if you need to adjust the micro:bit’s temperature.
 
-[1] 
+# python Code
+
