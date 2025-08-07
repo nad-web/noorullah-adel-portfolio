@@ -2,7 +2,7 @@
 
 
 
-## 🗂️ Contents
+## 🗂️ Educational Contents (Cool things to have a look at)
 
 - [🆚 Visual Programming](#-visual-programming)
 - [🐍 Python](#-python)
