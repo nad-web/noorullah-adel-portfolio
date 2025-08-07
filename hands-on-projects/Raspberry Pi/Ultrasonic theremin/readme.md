@@ -1,4 +1,4 @@
-[Detailed Doc](https://projects.raspberrypi.org/en/projects/ultrasonic-theremin/0)
+[Detailed Doc](https://projects.raspberrypi.org/en/projects/ultrasonic-theremin/0) <br>
 <img width="410" height="234" alt="image" src="https://github.com/user-attachments/assets/6401f5e4-1765-4790-9327-54f8ac6addfc" />
 
 
