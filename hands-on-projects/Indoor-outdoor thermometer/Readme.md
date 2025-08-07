@@ -1,8 +1,8 @@
-- # Indoor-outdoor Thermometer
-- ## Step 1: Make it
-- ## Step 2: Code it
-- ## Step 3: Improve it
-- # python Code
+- Indoor-outdoor Thermometer
+-  step 1: make it
+- Step 2: Code it
+-  Step 3: Improve it
+-  python Code
 
 # Indoor-outdoor Thermometer
 
