@@ -92,9 +92,9 @@ Here are some projects that best highlight my skills and problem-solving approac
 
 Feel free to connect or reach out:
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile]
-- 🌐 GitHub: [github.com/noorullah-adel]
+- 📧 Email: [Contact me @](adel.noorullah@yahoo.com)
+- 💼 LinkedIn: [My_Linkedin](http://www.linkedin.com/in/noorullah-adel-a8715824)
+- 🌐 GitHub: [GitHub_Repo](github.com/nad-web)
 
 ---
 
