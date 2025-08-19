@@ -1,4 +1,6 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nad-web.noorulllah-adel-professional-portfolio)
+
+
 <div align="center">
   <h1>👋 Hi, I'm Noorullah Adel </h1>
     <h2> Welcome to My Professional Skills Portfolio </h2>
@@ -15,7 +17,18 @@
 </div>
 
 ---
+![GitHub Followers](https://img.shields.io/github/followers/nad-web?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/nad-web?style=social)
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nad-web&theme=tokyo-night" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,aws,azure,git,pandas,sql,tableau,powerbi" />
+</div>
+
+---
 ## 🏆 GitHub Trophies
 
 <div align="center">
