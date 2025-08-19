@@ -1,3 +1,4 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nad-web.noorulllah-adel-professional-portfolio)
 <div align="center">
   <h1>👋 Hi, I'm Noorullah Adel </h1>
     <h2> Welcome to My Professional Skills Portfolio </h2>
